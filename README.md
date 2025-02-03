@@ -6,7 +6,6 @@ This code can be used to download Gaia XP spectrum from Vizier if available. You
 
    ```
    python3 download_gaia_spectrum "starname" "savepath"
-
 2. **Python file** -
 
    ```

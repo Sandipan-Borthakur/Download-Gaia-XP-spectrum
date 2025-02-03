@@ -1,6 +1,7 @@
 Download-Gaia-XP-spectrum
 
-This code can be used to download Gaia XP spectrum from Vizier if available. You can either run the function from the terminal or you can import it in a python file.
+This code can be used to download Gaia XP spectrum from Vizier if available. You can either run the function from the terminal or you can import it in a python file. The 
+flux is saved in the units of $\rm ergs.\ s^{-1}. \ cm^{-2}. \ Å^{-1}$.
 
 1. **Terminal** - 
 

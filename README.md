@@ -1,7 +1,11 @@
 Download-Gaia-XP-spectrum
 
 This code can be used to download Gaia XP spectrum from Vizier if available. You can either run the function from the terminal or you can import it in a python file. The 
-flux is saved in the units of $\rm ergs.\ s^{-1}. \ cm^{-2}. \ Å^{-1}$.
+Gaia spectrum wavelength is in nm and flux is in the units of $\rm W.\ m^{-2}.\ nm^{-1}$. This function converts the wavelength to $\rm Å$ and flux is saved in the units of $\rm ergs.\ s^{-1}. \ cm^{-2}. \ Å^{-1}$. 
+
+| Conversion formula                                                         |
+|----------------------------------------------------------------------------|
+| $\rm ergs.\ s^{-1}. \ cm^{-2}. \ Å^{-1} = 100 \times W.\ m^{-2}.\ nm^{-1}$ |
 
 1. **Terminal** - 
 

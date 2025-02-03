@@ -5,6 +5,9 @@ Gaia spectrum wavelength is in nm and flux is in the units of $\rm W.\ m^{-2}.\ 
 
 | Conversion formula                                                         |
 |----------------------------------------------------------------------------|
+| $\rm 1\ W = 10^7\ ergs/s$                                                  |
+| $\rm 1\ m^2 = 10^4\ cm^2$                                                  |
+| $\rm 1\ nm = 10\ Å$                                                        |
 | $\rm ergs.\ s^{-1}. \ cm^{-2}. \ Å^{-1} = 100 \times W.\ m^{-2}.\ nm^{-1}$ |
 
 1. **Terminal** - 

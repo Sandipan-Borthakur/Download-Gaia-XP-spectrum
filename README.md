@@ -9,8 +9,7 @@ This code can be used to download Gaia XP spectrum from Vizier if available. You
 
 2. **Python file** -
 
-
-      from download_gaia_spectrum import download_gaia_spectrum       
+      `from download_gaia_spectrum import download_gaia_spectrum'       
 
       starname = "HD 135446"
 

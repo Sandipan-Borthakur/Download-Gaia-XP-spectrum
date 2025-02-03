@@ -13,5 +13,7 @@ This code can be used to download Gaia XP spectrum from Vizier if available. You
       from download_gaia_spectrum import download_gaia_spectrum       
 
       starname = "HD 135446"
+
       savepath = "savehere.txt"
+
       download_gaia_spectrum(starname = starname, savepath = savepath)
